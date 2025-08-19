@@ -1,5 +1,7 @@
 # Victor Ramírez  
 
+<img src="assets/Banner.png" width="100%" height="200px" alt="Github banner for Mr Voltok - AI generated image" style="object-fit: cover"/>
+
 🎯 **Desarrollador de Software** con interés en la **Ingeniería de Software**.  
 Desarrollador web con interés en la Ingeniería de Software. Mi propósito es crear soluciones web modernas, escalables, mantenibles y de fácil acceso para todo el público.
 
